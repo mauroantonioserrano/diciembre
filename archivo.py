@@ -3,7 +3,8 @@ if 2 + 2 == 4     :
 else :
     print("tengo sueño")
 
-hola=input("ingrese su nombre")
+hola=[1,2,3,4,5,6,7,8,9,0]
 
-if hola > "yo":
-    print("buen dia")
+
+
+dos=[1,5,6,8,3,4,5,6,7,8]
